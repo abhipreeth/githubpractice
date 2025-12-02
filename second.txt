@@ -1,3 +1,0 @@
-Added one file at a time
-the secnond file is restored to staged and modified and again pushed
-pulling single file
