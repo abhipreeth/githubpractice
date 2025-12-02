@@ -1,0 +1,2 @@
+files thare are staged and modified
+The second modified and added to staged area
